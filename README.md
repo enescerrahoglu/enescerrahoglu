@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/enescerrahoglu?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=enescerrahoglu.visitor-badge)](https://GitHub.com/enescerrahoglu/StrapDown.js/stargazers/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤙 Connect with me:</h3>
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enescerr)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/enescerr)
