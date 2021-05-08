@@ -2,14 +2,6 @@
 <h2 align="center">I'm Enes Cerrahoğlu ✌</h2>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-
-<div align="right">
-  <a href="https://https://github.com/enescerrahoglu/awesome-README-templates/stargazers">
-    <img src="https://img.shields.io/github/stars/enescerrahoglu/awesome-README-templates" alt="Stars Badge"/>
-  </a>
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-</div>
-
 <h3 align="left">Connect with me:</h3>
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enescerr)
@@ -17,7 +9,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enescerrahoglu/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enescerrahoglu1@gmail.com)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
+<div align="center">
+  <a href="https://github.com/elangosundar/awesome-README-templates/stargazers"><img src="https://img.shields.io/github/stars/elangosundar/awesome-README-templates" alt="Stars Badge"/></a>
+ </div>
 
 [![Enes's github stats](https://github-readme-stats.vercel.app/api?username=enescerrahoglu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/enescerrahoglu/github-readme-stats)
 
