@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/enescerrahoglu/enescerrahoglu)](https:enescerrahoglu.dev)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/enescerr)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/enescerrahoglu/)
 
