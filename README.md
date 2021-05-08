@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/enescerrahoglu/awesome-README-templates/stargazers">
-    <img src="https://img.shields.io/github/stars/enescerrahoglu/awesome-README-templates" alt="Stars Badge"/>
+    <img src="https://img.shields.io/github/stars/elangosundar/awesome-README-templates" alt="Stars Badge"/>
   </a>
 </div>
 
