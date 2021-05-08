@@ -8,9 +8,9 @@
 <a href="https://instagram.com/enescerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="enescerr" height="30" width="40" /></a>
 <a href="https://discord.gg/encer#3941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="encer#3941" height="30" width="40" /></a>
 </p>
-
+<div align="center">
 [![Enes's github stats](https://github-readme-stats.vercel.app/api?username=enescerrahoglu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/enescerrahoglu/github-readme-stats)
-
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enescerrahoglu)](https://github.com/enescerrahoglu/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
