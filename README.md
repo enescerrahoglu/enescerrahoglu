@@ -12,7 +12,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/enescerr)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enescerrahoglu/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enescerrahoglu1@gmail.com)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
 [![Enes's github stats](https://github-readme-stats.vercel.app/api?username=enescerrahoglu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/enescerrahoglu/github-readme-stats)
 
