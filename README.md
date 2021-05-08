@@ -11,7 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enescerrahoglu1@gmail.com)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-<div align="center">
+<div align="right">
   <a href="https://https://github.com/enescerrahoglu/awesome-README-templates/stargazers">
     <img src="https://img.shields.io/github/stars/enescerrahoglu/awesome-README-templates" alt="Stars Badge"/>
   </a>
