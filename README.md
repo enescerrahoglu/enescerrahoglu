@@ -3,7 +3,9 @@
 
 **enescerrahoglu/enescerrahoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Enes's github stats](https://github-readme-stats.vercel.app/api?username=enescerrahoglu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Enes's github stats](https://github-readme-stats.vercel.app/api?username=enescerrahoglu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/enescerrahoglu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enescerrahoglu)](https://github.com/enescerrahoglu/github-readme-stats)
 
 Here are some ideas to get you started:
 
