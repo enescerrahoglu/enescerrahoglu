@@ -12,7 +12,9 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <div align="center">
-  <a href="https://github.com/enescerrahoglu/awesome-README-templates/stargazers"><img src="https://img.shields.io/github/stars/enescerrahoglu/awesome-README-templates" alt="Stars Badge"/></a>
+  <a href="https://github.com/enescerrahoglu/awesome-README-templates/stargazers">
+    <img src="https://img.shields.io/github/stars/enescerrahoglu/awesome-README-templates" alt="Stars Badge"/>
+  </a>
 </div>
 
 [![Enes's github stats](https://github-readme-stats.vercel.app/api?username=enescerrahoglu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/enescerrahoglu/github-readme-stats)
