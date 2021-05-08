@@ -1,49 +1,12 @@
 <h1 align="center">Hi 👋, I'm Enes Cerrahoğlu</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-  .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-    margin: 5px 2px;
-  }
-
-  .fa:hover {
-      opacity: 0.7;
-  }
-
-  .fa-instagram {
-    background: #125688;
-    color: white;
-  }
-
-  .fa-twitter {
-    background: #55ACEE;
-    color: white;
-  }
-  
-  .fa-linkedin {
-    background: #007bb5;
-    color: white;
-  }
-  
-  .fa-google {
-    background: #dd4b39;
-    color: white;
-  }
-</style>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://www.instagram.com/enescerr/" class="fa fa-instagram"></a>
-<a href="https://www.twitter.com/enescerr/" class="fa fa-twitter"></a>
-<a href="https://www.linkedin.com/in/enescerrahoglu/" class="fa fa-linkedin"></a>
-<a href="mailto:enescerrahoglu11@gmail.com" class="fa fa-google"></a>
+<a href="https://twitter.com/enescerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="enescerr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/enescerrahoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="enescerrahoglu" height="30" width="40" /></a>
+<a href="https://instagram.com/enescerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="enescerr" height="30" width="40" /></a>
+<a href="https://discord.gg/encer#3941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="encer#3941" height="30" width="40" /></a>
 </p>
 
 [![Enes's github stats](https://github-readme-stats.vercel.app/api?username=enescerrahoglu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/enescerrahoglu/github-readme-stats)
