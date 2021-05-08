@@ -7,7 +7,7 @@
   <a href="https://https://github.com/enescerrahoglu/awesome-README-templates/stargazers">
     <img src="https://img.shields.io/github/stars/enescerrahoglu/awesome-README-templates" alt="Stars Badge"/>
   </a>
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 </div>
 
 <h3 align="left">Connect with me:</h3>
