@@ -1,7 +1,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/enescerrahoglu?style=social)](https://github.com/enescerrahoglu?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/enescerrahoglu?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=enescerrahoglu.visitor-badge)](https://GitHub.com/enescerrahoglu/StrapDown.js/stargazers/)
-<img alt="GitHub Org's stars" src="https://camo.githubusercontent.com/a6602d604e6c0f591fadb68ce2a484305bab0f8394f0e9c53c24cdace9a52eb4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6b617263616e3f636f6c6f723d726564266c6162656c3d7374617273266c6f676f3d676974687562267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/github/stars/enescerrahoglu?color=blue&amp;label=stars&amp;logo=github&amp;style=for-the-badge" style="max-width:100%;">
+
 <h1 align="center">Hey 👋, nice to see you 😎</h1>
 <h2 align="center">I'm Enes Cerrahoğlu ✌</h2>
 <h3 align="center">A passionate software developer from Turkey</h3>
