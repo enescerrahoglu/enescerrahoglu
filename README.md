@@ -1,5 +1,3 @@
-[![GitHub followers](https://img.shields.io/github/followers/enescerrahoglu?style=social)](https://github.com/enescerrahoglu?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/enescerrahoglu?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=enescerrahoglu.visitor-badge)](https://GitHub.com/enescerrahoglu/StrapDown.js/stargazers/)
 
 <h1 align="center">Hey 👋, nice to see you 😎</h1>
