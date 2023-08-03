@@ -1,5 +1,3 @@
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=enescerrahoglu.visitor-badge)](https://GitHub.com/enescerrahoglu/StrapDown.js/stargazers/)
-
 <h1 align="center">Hey 👋, nice to see you 😎</h1>
 <h2 align="center">I'm Enes Cerrahoğlu ✌</h2>
 <h3 align="center">A passionate software developer from Turkey</h3>
