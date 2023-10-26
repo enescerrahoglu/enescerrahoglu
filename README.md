@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, nice to see you 😎</h1>
 <h2 align="center">I'm Enes Cerrahoğlu ✌</h2>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkiye</h3>
 
 ## 🤙 Connect with me!
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enescerrahoglu)
