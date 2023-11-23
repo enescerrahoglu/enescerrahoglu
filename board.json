@@ -8,7 +8,7 @@
             "id": 1,
             "title": "Task 1",
             "description": "Description for Task 1",
-            "status": "TaskStatus.backlog",
+            "status": "TaskStatus.toDo",
             "assignees": [
                 {
                     "email": "ada.kaplan@example.com",
@@ -35,7 +35,7 @@
             "id": 2,
             "title": "Task 2",
             "description": "Description for Task 2",
-            "status": "TaskStatus.backlog",
+            "status": "TaskStatus.done",
             "assignees": [
                 {
                     "email": "ali.celik@example.com",
@@ -89,7 +89,7 @@
             "id": 4,
             "title": "Task 4",
             "description": "Description for Task 4",
-            "status": "TaskStatus.toDo",
+            "status": "TaskStatus.done",
             "assignees": [
                 {
                     "email": "elif.demir@example.com",
@@ -137,7 +137,7 @@
             "id": 6,
             "title": "Task 6",
             "description": "Description for Task 6",
-            "status": "TaskStatus.toDo",
+            "status": "TaskStatus.backlog",
             "assignees": [
                 {
                     "email": "ayse.aktas@example.com",
@@ -239,7 +239,7 @@
             "id": 10,
             "title": "Task 10",
             "description": "Description for Task 10",
-            "status": "TaskStatus.done",
+            "status": "TaskStatus.todo",
             "assignees": [
                 {
                     "email": "ayse.aktas@example.com",
@@ -287,7 +287,7 @@
             "id": 12,
             "title": "Task 12",
             "description": "Description for Task 12",
-            "status": "TaskStatus.done",
+            "status": "TaskStatus.backlog",
             "assignees": [
                 {
                     "email": "ali.celik@example.com",
