@@ -1,0 +1,320 @@
+{
+    "id": 1,
+    "title": "Refactoring for Word Ninja",
+    "description": "New project for refactoring our app Word ninja",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fboard_images%2Fword_ninja_logo.png?alt=media&token=40aea350-65f9-4dd6-8c3a-d2e832592540",
+    "taskList": [
+        {
+            "id": 1,
+            "title": "Task 1",
+            "description": "Description for Task 1",
+            "status": "TaskStatus.backlog",
+            "assignees": [
+                {
+                    "email": "ada.kaplan@example.com",
+                    "firstName": "Ada",
+                    "lastName": "Kaplan",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fada.kaplan.jpeg?alt=media&token=70213cb9-e9e4-43a2-9eec-b8ab17112d54"
+                },
+                {
+                    "email": "ali.celik@example.com",
+                    "firstName": "Ali",
+                    "lastName": "Çelik",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fali.celik.jpeg?alt=media&token=acb0f801-3803-4d13-a96e-1605fb04010a"
+                }
+            ],
+            "reportingUser": {
+                "email": "emre.sahin@example.com",
+                "firstName": "Emre",
+                "lastName": "Şahin",
+                "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Femre.sahin.jpeg?alt=media&token=bb7a136d-9925-4500-aed6-c0e9d313d0d8"
+            },
+            "createdTimestamp": 1637250000
+        },
+        {
+            "id": 2,
+            "title": "Task 2",
+            "description": "Description for Task 2",
+            "status": "TaskStatus.backlog",
+            "assignees": [
+                {
+                    "email": "ali.celik@example.com",
+                    "firstName": "Ali",
+                    "lastName": "Çelik",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fali.celik.jpeg?alt=media&token=acb0f801-3803-4d13-a96e-1605fb04010a"
+                },
+                {
+                    "email": "zeynep.yilmaz@example.com",
+                    "firstName": "Zeynep",
+                    "lastName": "Yılmaz",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fzeynep.yilmaz.jpeg?alt=media&token=2777dd47-0e5f-4c90-9da1-ec1018d0ee84"
+                }
+            ],
+            "reportingUser": {
+                "email": "emre.sahin@example.com",
+                "firstName": "Emre",
+                "lastName": "Şahin",
+                "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Femre.sahin.jpeg?alt=media&token=bb7a136d-9925-4500-aed6-c0e9d313d0d8"
+            },
+            "createdTimestamp": 1637251000
+        },
+        {
+            "id": 3,
+            "title": "Task 3",
+            "description": "Description for Task 3",
+            "status": "TaskStatus.backlog",
+            "assignees": [
+                {
+                    "email": "zeynep.yilmaz@example.com",
+                    "firstName": "Zeynep",
+                    "lastName": "Yılmaz",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fzeynep.yilmaz.jpeg?alt=media&token=2777dd47-0e5f-4c90-9da1-ec1018d0ee84"
+                },
+                {
+                    "email": "elif.demir@example.com",
+                    "firstName": "Elif",
+                    "lastName": "Demir",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Felif.demir.jpeg?alt=media&token=1f0772dd-a2fe-4298-84a4-2a7e641ca9b3"
+                }
+            ],
+            "reportingUser": {
+                "email": "emre.sahin@example.com",
+                "firstName": "Emre",
+                "lastName": "Şahin",
+                "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Femre.sahin.jpeg?alt=media&token=bb7a136d-9925-4500-aed6-c0e9d313d0d8"
+            },
+            "createdTimestamp": 1637252000
+        },
+        {
+            "id": 4,
+            "title": "Task 4",
+            "description": "Description for Task 4",
+            "status": "TaskStatus.toDo",
+            "assignees": [
+                {
+                    "email": "elif.demir@example.com",
+                    "firstName": "Elif",
+                    "lastName": "Demir",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Felif.demir.jpeg?alt=media&token=1f0772dd-a2fe-4298-84a4-2a7e641ca9b3"
+                },
+                {
+                    "email": "mert.kaya@example.com",
+                    "firstName": "Mert",
+                    "lastName": "Kaya",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fmert.kaya.jpeg?alt=media&token=60118bdb-1401-4a88-afbf-25f2c45a802b"
+                }
+            ],
+            "reportingUser": {
+                "email": "emre.sahin@example.com",
+                "firstName": "Emre",
+                "lastName": "Şahin",
+                "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Femre.sahin.jpeg?alt=media&token=bb7a136d-9925-4500-aed6-c0e9d313d0d8"
+            },
+            "createdTimestamp": 1637253000
+        },
+        {
+            "id": 5,
+            "title": "Task 5",
+            "description": "Description for Task 5",
+            "status": "TaskStatus.toDo",
+            "assignees": [
+                {
+                    "email": "mert.kaya@example.com",
+                    "firstName": "Mert",
+                    "lastName": "Kaya",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fmert.kaya.jpeg?alt=media&token=60118bdb-1401-4a88-afbf-25f2c45a802b"
+                }
+            ],
+            "reportingUser": {
+                "email": "emre.sahin@example.com",
+                "firstName": "Emre",
+                "lastName": "Şahin",
+                "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Femre.sahin.jpeg?alt=media&token=bb7a136d-9925-4500-aed6-c0e9d313d0d8"
+            },
+            "createdTimestamp": 1637254000
+        },
+        {
+            "id": 6,
+            "title": "Task 6",
+            "description": "Description for Task 6",
+            "status": "TaskStatus.toDo",
+            "assignees": [
+                {
+                    "email": "ayse.aktas@example.com",
+                    "firstName": "Ayşe",
+                    "lastName": "Aktaş",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fayse.aktas.jpeg?alt=media&token=ab20d4fb-1d9f-44ff-8728-58a6acfa0533"
+                },
+                {
+                    "email": "zeynep.yilmaz@example.com",
+                    "firstName": "Zeynep",
+                    "lastName": "Yılmaz",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fzeynep.yilmaz.jpeg?alt=media&token=2777dd47-0e5f-4c90-9da1-ec1018d0ee84"
+                }
+            ],
+            "reportingUser": {
+                "email": "emre.sahin@example.com",
+                "firstName": "Emre",
+                "lastName": "Şahin",
+                "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Femre.sahin.jpeg?alt=media&token=bb7a136d-9925-4500-aed6-c0e9d313d0d8"
+            },
+            "createdTimestamp": 1637255000
+        },
+        {
+            "id": 7,
+            "title": "Task 7",
+            "description": "Description for Task 7",
+            "status": "TaskStatus.inProgress",
+            "assignees": [
+                {
+                    "email": "ada.kaplan@example.com",
+                    "firstName": "Ada",
+                    "lastName": "Kaplan",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fada.kaplan.jpeg?alt=media&token=70213cb9-e9e4-43a2-9eec-b8ab17112d54"
+                },
+                {
+                    "email": "mert.kaya@example.com",
+                    "firstName": "Mert",
+                    "lastName": "Kaya",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fmert.kaya.jpeg?alt=media&token=60118bdb-1401-4a88-afbf-25f2c45a802b"
+                }
+            ],
+            "reportingUser": {
+                "email": "emre.sahin@example.com",
+                "firstName": "Emre",
+                "lastName": "Şahin",
+                "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Femre.sahin.jpeg?alt=media&token=bb7a136d-9925-4500-aed6-c0e9d313d0d8"
+            },
+            "createdTimestamp": 1637256000
+        },
+        {
+            "id": 8,
+            "title": "Task 8",
+            "description": "Description for Task 8",
+            "status": "TaskStatus.inProgress",
+            "assignees": [
+                {
+                    "email": "ali.celik@example.com",
+                    "firstName": "Ali",
+                    "lastName": "Çelik",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fali.celik.jpeg?alt=media&token=acb0f801-3803-4d13-a96e-1605fb04010a"
+                },
+                {
+                    "email": "elif.demir@example.com",
+                    "firstName": "Elif",
+                    "lastName": "Demir",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Felif.demir.jpeg?alt=media&token=1f0772dd-a2fe-4298-84a4-2a7e641ca9b3"
+                }
+            ],
+            "reportingUser": {
+                "email": "emre.sahin@example.com",
+                "firstName": "Emre",
+                "lastName": "Şahin",
+                "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Femre.sahin.jpeg?alt=media&token=bb7a136d-9925-4500-aed6-c0e9d313d0d8"
+            },
+            "createdTimestamp": 1637257000
+        },
+        {
+            "id": 9,
+            "title": "Task 9",
+            "description": "Description for Task 9",
+            "status": "TaskStatus.inProgress",
+            "assignees": [
+                {
+                    "email": "zeynep.yilmaz@example.com",
+                    "firstName": "Zeynep",
+                    "lastName": "Yılmaz",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fzeynep.yilmaz.jpeg?alt=media&token=2777dd47-0e5f-4c90-9da1-ec1018d0ee84"
+                }
+            ],
+            "reportingUser": {
+                "email": "emre.sahin@example.com",
+                "firstName": "Emre",
+                "lastName": "Şahin",
+                "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Femre.sahin.jpeg?alt=media&token=bb7a136d-9925-4500-aed6-c0e9d313d0d8"
+            },
+            "createdTimestamp": 1637258000
+        },
+        {
+            "id": 10,
+            "title": "Task 10",
+            "description": "Description for Task 10",
+            "status": "TaskStatus.done",
+            "assignees": [
+                {
+                    "email": "ayse.aktas@example.com",
+                    "firstName": "Ayşe",
+                    "lastName": "Aktaş",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fayse.aktas.jpeg?alt=media&token=ab20d4fb-1d9f-44ff-8728-58a6acfa0533"
+                },
+                {
+                    "email": "elif.demir@example.com",
+                    "firstName": "Elif",
+                    "lastName": "Demir",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Felif.demir.jpeg?alt=media&token=1f0772dd-a2fe-4298-84a4-2a7e641ca9b3"
+                }
+            ],
+            "reportingUser": {
+                "email": "emre.sahin@example.com",
+                "firstName": "Emre",
+                "lastName": "Şahin",
+                "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Femre.sahin.jpeg?alt=media&token=bb7a136d-9925-4500-aed6-c0e9d313d0d8"
+            },
+            "createdTimestamp": 1637259000
+        },
+        {
+            "id": 11,
+            "title": "Task 11",
+            "description": "Description for Task 11",
+            "status": "TaskStatus.done",
+            "assignees": [
+                {
+                    "email": "elif.demir@example.com",
+                    "firstName": "Elif",
+                    "lastName": "Demir",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Felif.demir.jpeg?alt=media&token=1f0772dd-a2fe-4298-84a4-2a7e641ca9b3"
+                }
+            ],
+            "reportingUser": {
+                "email": "emre.sahin@example.com",
+                "firstName": "Emre",
+                "lastName": "Şahin",
+                "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Femre.sahin.jpeg?alt=media&token=bb7a136d-9925-4500-aed6-c0e9d313d0d8"
+            },
+            "createdTimestamp": 1637260000
+        },
+        {
+            "id": 12,
+            "title": "Task 12",
+            "description": "Description for Task 12",
+            "status": "TaskStatus.done",
+            "assignees": [
+                {
+                    "email": "ali.celik@example.com",
+                    "firstName": "Ali",
+                    "lastName": "Çelik",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fali.celik.jpeg?alt=media&token=acb0f801-3803-4d13-a96e-1605fb04010a"
+                },
+                {
+                    "email": "ayse.aktas@example.com",
+                    "firstName": "Ayşe",
+                    "lastName": "Aktaş",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fayse.aktas.jpeg?alt=media&token=ab20d4fb-1d9f-44ff-8728-58a6acfa0533"
+                }
+            ],
+            "reportingUser": {
+                "email": "emre.sahin@example.com",
+                "firstName": "Emre",
+                "lastName": "Şahin",
+                "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Femre.sahin.jpeg?alt=media&token=bb7a136d-9925-4500-aed6-c0e9d313d0d8"
+            },
+            "createdTimestamp": 1637261000
+        }
+    ],
+    "reportingUser": {
+        "email": "emre.sahin@example.com",
+        "firstName": "Emre",
+        "lastName": "Şahin",
+        "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Femre.sahin.jpeg?alt=media&token=bb7a136d-9925-4500-aed6-c0e9d313d0d8"
+    }
+}
