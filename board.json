@@ -239,7 +239,7 @@
             "id": 10,
             "title": "Task 10",
             "description": "Description for Task 10",
-            "status": "TaskStatus.todo",
+            "status": "TaskStatus.toDo",
             "assignees": [
                 {
                     "email": "ayse.aktas@example.com",
