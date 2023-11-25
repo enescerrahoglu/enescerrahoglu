@@ -1,5 +1,11 @@
 [
   {
+    "email": "gulmeral.tanrıover@example.com",
+    "firstName": "Gül Meral",
+    "lastName": "Tanrıöver",
+    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fgulmeral.jpeg?alt=media&token=ef9078d0-e5ae-426a-8aec-bb938dbcaa29"
+  },
+  {
     "email": "ada.kaplan@example.com",
     "firstName": "Ada",
     "lastName": "Kaplan",
