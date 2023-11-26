@@ -83,6 +83,13 @@
                     "lastName": "Demir",
                     "role": "Product Owner",
                     "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Felif.demir.jpeg?alt=media&token=1f0772dd-a2fe-4298-84a4-2a7e641ca9b3"
+                },
+                {
+                    "email": "mert.kaya@example.com",
+                    "firstName": "Mert",
+                    "lastName": "Kaya",
+                    "role": "Developer",
+                    "profilePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/enescerrahoglu.appspot.com/o/kanban_board%2Fprofile_photos%2Fmert.kaya.jpeg?alt=media&token=60118bdb-1401-4a88-afbf-25f2c45a802b"
                 }
             ],
             "reportingUser": {
