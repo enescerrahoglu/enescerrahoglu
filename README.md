@@ -19,7 +19,7 @@
 </p>
 
 ## 🛠 My Interests
-<img src="https://img.shields.io/badge/Flutter-54C5F7?&style=for-the-badge&logo=flutter&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Flutter-54C5F7?&style=for-the-badge&logo=flutter&logoColor=darkblue"></img>
 <img src="https://img.shields.io/badge/dart-0075C9?&style=for-the-badge&logo=dart&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Kotlin-F3851C?&style=for-the-badge&logo=kotlin&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Swift-EF3E31?&style=for-the-badge&logo=swift&logoColor=white"></img>
