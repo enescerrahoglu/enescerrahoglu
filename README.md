@@ -26,8 +26,8 @@
 <img src="https://img.shields.io/badge/Python-FFC331?style=for-the-badge&logo=python&logoColor=black"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 
-<img src="https://img.shields.io/badge/firebase-02569B?&style=for-the-badge&logo=firebase&logoColor=white"></img>
-<img src="https://img.shields.io/badge/go-02569B?&style=for-the-badge&logo=go&logoColor=white"></img>
+<img src="https://img.shields.io/badge/firebase-FFA000?&style=for-the-badge&logo=firebase&logoColor=white"></img>
+<img src="https://img.shields.io/badge/go-07AED9?&style=for-the-badge&logo=go&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
 
 <img src="https://img.shields.io/badge/mongodb-02569B?&style=for-the-badge&logo=mongodb&logoColor=white"></img>
