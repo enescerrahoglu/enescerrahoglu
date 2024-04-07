@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/dart-0075C9?&style=for-the-badge&logo=dart&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Kotlin-F3851C?&style=for-the-badge&logo=kotlin&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Swift-EF3E31?&style=for-the-badge&logo=swift&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Python-FFC331?style=for-the-badge&logo=python&logoColor=black"></img>
+<img src="https://img.shields.io/badge/Python-FFC331?style=for-the-badge&logo=python&logoColor=darkblue"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 
 <img src="https://img.shields.io/badge/firebase-FFA000?&style=for-the-badge&logo=firebase&logoColor=white"></img>
