@@ -28,9 +28,9 @@
 
 <img src="https://img.shields.io/badge/firebase-FFA000?&style=for-the-badge&logo=firebase&logoColor=white"></img>
 <img src="https://img.shields.io/badge/go-07AED9?&style=for-the-badge&logo=go&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Node.js-8CC03E?style=for-the-badge&logo=node.js&logoColor=white"></img>
 
-<img src="https://img.shields.io/badge/mongodb-02569B?&style=for-the-badge&logo=mongodb&logoColor=white"></img>
+<img src="https://img.shields.io/badge/mongodb-6CAC48?&style=for-the-badge&logo=mongodb&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></img>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
