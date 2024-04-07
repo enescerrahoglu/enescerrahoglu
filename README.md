@@ -29,16 +29,16 @@
 <img src="https://img.shields.io/badge/go-02569B?&style=for-the-badge&logo=go&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
 
-<img src="https://img.shields.io/badge/mongo%20db-02569B?&style=for-the-badge&logo=mongodb&logoColor=white"></img>
+<img src="https://img.shields.io/badge/mongodb-02569B?&style=for-the-badge&logo=mongodb&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></img>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></img>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></img>
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></img>
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></img>
+<img src="https://img.shields.io/badge/xcode-02569B?&style=for-the-badge&logo=xcode&logoColor=white"></img>
+<img src="https://img.shields.io/badge/android%20studio-02569B?&style=for-the-badge&logo=androidstudio&logoColor=white"></img>
 
 <a href="https://enescerrahoglu.web.app/" target="_blank">and more...</a>
