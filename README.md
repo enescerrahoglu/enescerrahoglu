@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enescerrahoglu1@gmail.com)
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=enescerrahoglu&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=enescerrahoglu&theme=dark)]
 
 ## 🛠 My Interests
 <img src="https://img.shields.io/badge/Flutter-54C5F7?&style=for-the-badge&logo=flutter&logoColor=white"></img>
