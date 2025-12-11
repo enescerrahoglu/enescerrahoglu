@@ -9,14 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enescerrahoglu1@gmail.com)
 
 ## 📊 GitHub Stats
-<p align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=enescerrahoglu&count_private=true&show_icons=true&theme=tokyonight">
-  </p>
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescerrahoglu&hide=python&layout=compact&show_icons=true&theme=tokyonight">
-  </p>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=enescerrahoglu&theme=dark)](https://git.io/streak-stats)
 
 ## 🛠 My Interests
 <img src="https://img.shields.io/badge/Flutter-54C5F7?&style=for-the-badge&logo=flutter&logoColor=white"></img>
