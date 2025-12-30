@@ -8,9 +8,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enescerrahoglu/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enescerrahoglu1@gmail.com)
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=enescerrahoglu)](https://git.io/streak-stats)
-
 ## 🛠 My Interests
 <img src="https://img.shields.io/badge/Flutter-54C5F7?&style=for-the-badge&logo=flutter&logoColor=white"></img>
 <img src="https://img.shields.io/badge/dart-0075C9?&style=for-the-badge&logo=dart&logoColor=white"></img>
